@@ -1,7 +1,10 @@
 {
   "name": "myApp",
   "type": "ionic1",
-  "integrations": {},
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
   "watchPatterns": [
     "scss/**/*",
     "www/**/*",
